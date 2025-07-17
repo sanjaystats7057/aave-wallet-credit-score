@@ -4,7 +4,7 @@ This analysis is based on the credit scoring of wallets interacting with the Aav
 
 ## Score Distribution
 
-![Score Distribution](
+![Score Distribution](https://github.com/sanjaystats7057/aave-wallet-credit-score/blob/main/score_distribution.png)
 
 The majority of wallets lie in the 400–600 range, indicating a typical mix of activity. A small portion exhibit extremely risky or highly trustworthy behavior.
 
