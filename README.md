@@ -95,7 +95,7 @@ Wallet scores are binned into the following ranges:
 
 Score Distribution Graph
 
-![Score Distribution](analysis.png)
+![Score Distribution](https://github.com/sanjaystats7057/aave-wallet-credit-score/blob/main/score_distribution.png)
 
 
 ---
