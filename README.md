@@ -93,7 +93,10 @@ Wallet scores are binned into the following ranges:
 - (800–900]
 - (900–1000]
 
-Use the histogram in `score_distribution.png` to visualize the spread. Details and interpretation are written in `analysis.md`.
+Score Distribution Graph
+
+![Score Distribution](analysis.png)
+
 
 ---
 
